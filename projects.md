@@ -10,14 +10,23 @@ permalink: /projects/
  Investigated and resolved a null pointer dereference in Linux by analyzing and comparing static analysis tools (Cppcheck, Codechecker, Facebook Infer, SonarQube) against the Juliet Test Suite for cybersecurity enhancement. This process sharpened my expertise in static analysis and problem-solving skills in cybersecurity.
 
 
-## [Driver Drowsiness Detection] (https://github.com/krishna212/DrowsinessDetection.git)
+## Driver Drowsiness Detection
 
-Developed a vehicle safety system focusing on driver drowsiness detection. Using real-time facial and eye movement analysis, our system calculates a drowsiness index to preempt accidents, implemented in Matlab. It integrates Sobel Edge Detection for edge delineation, the Viola-Jones Algorithm for facial recognition, and K-Means Clustering to assess the driver's alertness by analyzing eye and mouth status. This project highlights the role of image processing algorithms in improving vehicle safety and preventing accidents due to drowsiness.
+Designed a vehicle safety system aimed at detecting driver drowsiness through real-time monitoring of facial and eye movements. This system calculates a drowsiness index to help prevent accidents, with the entire implementation carried out in Matlab. 
+
+It utilizes Sobel Edge Detection for clearer edge delineation, the Viola-Jones Algorithm for accurate facial recognition, and K-Means Clustering for assessing the driver's alertness by analyzing the state of the eyes and mouth. This project demonstrates the significant impact of image processing algorithms on improving vehicle safety and preventing accidents caused by drowsiness.
+
+[Project Link](https://github.com/krishna212/DrowsinessDetection.git)
 
 
-## [Snagger App] (https://play.google.com/store/apps/details?id=com.snagger.dnd&hl=en_US&gl=US)
+## Snagger App
 
-A mobile application that presents a distinctive hybrid model, adeptly merging online and offline components. Subscribers are afforded the opportunity to avail themselves of exclusive discounts at our esteemed retail partners. A key differentiator of our business model is the unrestricted usage during the subscription tenure, offering exceptional value to our clientele. This avant-garde strategy positions us uniquely in the marketplace, providing a thorough and gratifying consumer experience. Built using Flutter, Java, MongoDB, C#, and AWS.
+Our mobile application introduces an innovative hybrid model that seamlessly blends online and offline experiences. Subscribers gain access to exclusive discounts at prestigious retail partners, setting our service apart in the market. A hallmark of our offering is the unlimited access provided throughout the subscription period, delivering unparalleled value to our users. 
+
+This forward-thinking approach ensures a unique positioning in the marketplace, aimed at delivering a comprehensive and satisfying customer experience. The app is crafted using a robust technology stack that includes Flutter, Java, MongoDB, C#, and AWS, ensuring a reliable and scalable solution.
+
+['Snagger' Android app](https://play.google.com/store/apps/details?id=com.snagger.dnd&hl=en_US&gl=US) 
+*Note: iOS app is only available in Indian Region*
 
 
 ## Snagger AR app

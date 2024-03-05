@@ -23,6 +23,6 @@ permalink: /experience/
    * Teaching Assistant (Fall 2022)
 
 
-# [Glensys Technologies Inc.](https://www.glenysys.com/) - Remote, US
+# [Glenysys Technologies Inc.](https://www.glenysys.com/) - Remote, US
 
  * Software Engineer (Aug 2023 - Jan 2024)
