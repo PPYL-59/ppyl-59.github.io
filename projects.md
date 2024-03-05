@@ -26,7 +26,7 @@ Our mobile application introduces an innovative hybrid model that seamlessly ble
 This forward-thinking approach ensures a unique positioning in the marketplace, aimed at delivering a comprehensive and satisfying customer experience. The app is crafted using a robust technology stack that includes Flutter, Java, MongoDB, C#, and AWS, ensuring a reliable and scalable solution.
 
 ['Snagger' Android app](https://play.google.com/store/apps/details?id=com.snagger.dnd&hl=en_US&gl=US) | 
-*Note: iOS app is only available in Indian Region*
+*Note: iOS app is only available in India*
 
 
 ## Snagger AR app
