@@ -7,7 +7,7 @@ permalink: /experience/
 
 
 
-# [Code Beat Pvt. Ltd.](https://codebeat.co/) - Hyderabad, India
+# [Code Beat Pvt. Ltd.](https://codebeat.in/) - Hyderabad, India
   
    * Software Engineering Intern (Summer 2018)
 
@@ -17,10 +17,10 @@ permalink: /experience/
  * Software Engineer (Aug 2019 - Feb 2021)
 
 
-# [Iowa State University](https://www.iastate.edu/) - Ames, Iowa 
+# [Iowa State University](https://www.ece.iastate.edu/) - Ames, Iowa 
 
-   * Research Assistant (Fall 2022)
-   * Teaching Assistant (Fall 2022)
+   * Graduate Research Assistant (Fall 2022)
+   * Graduate Teaching Assistant (Fall 2022)
 
 
 # [Glenysys Technologies Inc.](https://www.glenysys.com/) - Remote, US
