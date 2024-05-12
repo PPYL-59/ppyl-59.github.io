@@ -14,7 +14,7 @@ permalink: /experience/
 
 # [Snagger India Pvt. Ltd.](https://snagger.in/) - India
 
- * Software Engineer (Aug 2019 - Feb 2021)
+ * Software Engineer (Aug 2019 - Jul 2021)
 
 
 # [Iowa State University](https://www.ece.iastate.edu/) - Ames, Iowa 
