@@ -21,3 +21,7 @@ permalink: /experience/
 
    * Graduate Research Assistant (Fall 2022)
    * Graduate Teaching Assistant (Fall 2022)
+
+# [Glenysys Technologies Inc](https://www.glenysys.com/) - Chicago,IL
+
+ * Software Engineer (Aug 2023 - Jan 2024)
