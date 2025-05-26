@@ -24,4 +24,4 @@ permalink: /experience/
 
 # [Glenysys Technologies Inc](https://www.glenysys.com/) - Chicago,IL
 
- * Software Engineer (Aug 2023 - Jan 2024)
+ * Software Engineer (Aug 2023 - Present)
