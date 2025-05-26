@@ -10,6 +10,11 @@ permalink: /projects/
  Investigated and resolved a null pointer dereference in Linux by analyzing and comparing static analysis tools (Cppcheck, Codechecker, Facebook Infer, SonarQube) against the Juliet Test Suite for cybersecurity enhancement. This process sharpened my expertise in static analysis and problem-solving skills in cybersecurity.
 
 
+## Network Packet Analyzer
+
+Developed a packet sniffer in C using libpcap on Linux, analyzing TCP/IP traffic to optimize network performance.
+
+
 ## Driver Drowsiness Detection
 
 Designed a vehicle safety system aimed at detecting driver drowsiness through real-time monitoring of facial and eye movements. This system calculates a drowsiness index to help prevent accidents, with the entire implementation carried out in Matlab. 
